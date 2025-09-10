@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","10152","Automation Exercise - Products Flow","chromium","Wed Sep 10 09:48:22 UTC 2025","passed","Wed Sep 10 09:48:32 UTC 2025","","tests/specs/automation.spec.js","",""
 "","15340","Automation Exercise - Products Flow","chromium","Wed Sep 10 06:29:54 UTC 2025","passed","Wed Sep 10 06:30:09 UTC 2025","","specs\automation.spec.js","",""
+"","4883","Automation Exercise - Products Flow","chromium","Wed Sep 10 10:35:40 UTC 2025","passed","Wed Sep 10 10:35:45 UTC 2025","","tests/specs/automation.spec.js","",""
