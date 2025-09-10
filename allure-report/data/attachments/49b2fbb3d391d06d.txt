@@ -1,0 +1,4 @@
+Navigation to the HomePage
+Clicking Products link...
+Naviagted to Product URL
+All products heading is visible
