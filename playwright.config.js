@@ -110,7 +110,7 @@ module.exports = defineConfig({
  workers: process.env.CI ? 4 : undefined,
  // Reporters
  reporter: [
- ['html', { outputFolder: 'playwright-report' }],
+ ['html', { outputFolder: 'playwright-report', open: 'never'  }],
  ['junit', { outputFile: 'test-results/junit.xml' }]
  ],
  use: {
