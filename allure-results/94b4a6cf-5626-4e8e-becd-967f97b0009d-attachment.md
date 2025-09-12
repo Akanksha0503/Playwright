@@ -1,0 +1,243 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+    - iframe [ref=e9]:
+      - generic [ref=f1e6]:
+        - generic [ref=f1e8] [cursor=pointer]:
+          - link [ref=f1e10] [cursor=pointer]:
+            - /url: https://clck.mgid.com/ghits/24627651/i/58092114/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxXQeyBKf32HDWrHaP-JMw3IIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf5Ga1R6Bmx4ClIdJi4iWVr7&rid=cbf2835c-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cgWaaxFIi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrIS0S7QsOb4TyE5H_wq1CwLYCl_8G1iebZ6WC0zaBpE6QA**
+          - generic [ref=f1e13] [cursor=pointer]:
+            - link "भारत की यह नई खोज मधुमेह को हमेशा के लिए मिटा सकती है" [ref=f1e15] [cursor=pointer]:
+              - /url: https://clck.mgid.com/ghits/24627651/i/58092114/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxXQeyBKf32HDWrHaP-JMw3IIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf5Ga1R6Bmx4ClIdJi4iWVr7&rid=cbf2835c-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cgWaaxFIi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrIS0S7QsOb4TyE5H_wq1CwLYCl_8G1iebZ6WC0zaBpE6QA**
+            - link "Sugar Shield" [ref=f1e17] [cursor=pointer]:
+              - /url: https://clck.mgid.com/ghits/24627651/i/58092114/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxXQeyBKf32HDWrHaP-JMw3IIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf5Ga1R6Bmx4ClIdJi4iWVr7&rid=cbf2835c-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cgWaaxFIi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrIS0S7QsOb4TyE5H_wq1CwLYCl_8G1iebZ6WC0zaBpE6QA**
+        - generic [ref=f1e19] [cursor=pointer]:
+          - link [ref=f1e21] [cursor=pointer]:
+            - /url: https://clck.mgid.com/ghits/24627645/i/58092114/0/pp/2/3?h=DVCnVIoBlHwbZN89Z-IUxcFls6EU3AZ4YgOnxmNYCGZXCjgX78IdOogOjThpL5MBLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf63aYZ6ShAwK3Pn0FKsmCuB&rid=cbf2835c-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cgWaaxFIi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrIS0S7QsOb4TyE5H_wq1CwLYCl_8G1iebZ6WC0zaBpE6QA**
+          - generic [ref=f1e24] [cursor=pointer]:
+            - link "मधुमेह से पीड़ित व्यक्ति इसे हटाने से पहले तुरंत पढ़ें" [ref=f1e26] [cursor=pointer]:
+              - /url: https://clck.mgid.com/ghits/24627645/i/58092114/0/pp/2/3?h=DVCnVIoBlHwbZN89Z-IUxcFls6EU3AZ4YgOnxmNYCGZXCjgX78IdOogOjThpL5MBLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf63aYZ6ShAwK3Pn0FKsmCuB&rid=cbf2835c-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cgWaaxFIi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrIS0S7QsOb4TyE5H_wq1CwLYCl_8G1iebZ6WC0zaBpE6QA**
+            - link "Sugar Shield" [ref=f1e28] [cursor=pointer]:
+              - /url: https://clck.mgid.com/ghits/24627645/i/58092114/0/pp/2/3?h=DVCnVIoBlHwbZN89Z-IUxcFls6EU3AZ4YgOnxmNYCGZXCjgX78IdOogOjThpL5MBLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf63aYZ6ShAwK3Pn0FKsmCuB&rid=cbf2835c-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cgWaaxFIi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrIS0S7QsOb4TyE5H_wq1CwLYCl_8G1iebZ6WC0zaBpE6QA**
+  - generic [ref=e10]:
+    - banner [ref=e11]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e13] [cursor=pointer]
+    - generic [ref=e16]:
+      - generic [ref=e19]:
+        - generic [ref=e22] [cursor=pointer]:
+          - generic [ref=e23] [cursor=pointer]:
+            - img [ref=e25] [cursor=pointer]
+            - text: Elements
+          - img [ref=e30] [cursor=pointer]
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37] [cursor=pointer]:
+            - img [ref=e39] [cursor=pointer]
+            - text: Forms
+          - img [ref=e45] [cursor=pointer]
+        - generic [ref=e51] [cursor=pointer]:
+          - generic [ref=e52] [cursor=pointer]:
+            - img [ref=e54] [cursor=pointer]
+            - text: Alerts, Frame & Windows
+          - img [ref=e59] [cursor=pointer]
+        - generic [ref=e65] [cursor=pointer]:
+          - generic [ref=e66] [cursor=pointer]:
+            - img [ref=e68] [cursor=pointer]
+            - text: Widgets
+          - img [ref=e73] [cursor=pointer]
+        - generic [ref=e79] [cursor=pointer]:
+          - generic [ref=e80] [cursor=pointer]:
+            - img [ref=e82] [cursor=pointer]
+            - text: Interactions
+          - img [ref=e87] [cursor=pointer]
+        - generic [ref=e91]:
+          - generic [ref=e93] [cursor=pointer]:
+            - generic [ref=e94] [cursor=pointer]:
+              - img [ref=e96] [cursor=pointer]
+              - text: Book Store Application
+            - img [ref=e101] [cursor=pointer]
+          - list [ref=e106]:
+            - listitem [ref=e107] [cursor=pointer]:
+              - img [ref=e108] [cursor=pointer]
+              - generic [ref=e110] [cursor=pointer]: Login
+            - listitem [ref=e111] [cursor=pointer]:
+              - img [ref=e112] [cursor=pointer]
+              - generic [ref=e114] [cursor=pointer]: Book Store
+            - listitem [ref=e115] [cursor=pointer]:
+              - img [ref=e116] [cursor=pointer]
+              - generic [ref=e118] [cursor=pointer]: Profile
+            - listitem [ref=e119] [cursor=pointer]:
+              - img [ref=e120] [cursor=pointer]
+              - generic [ref=e122] [cursor=pointer]: Book Store API
+      - generic [ref=e123]:
+        - iframe [ref=e126]:
+          - generic [ref=f2e3]:
+            - button [ref=f2e4]:
+              - img [ref=f2e5]
+            - generic [ref=f2e7]:
+              - generic [ref=f2e9]:
+                - generic [ref=f2e13]:
+                  - button "Play video" [ref=f2e17] [cursor=pointer]:
+                    - img [ref=f2e18] [cursor=pointer]
+                  - button "Unmute video" [ref=f2e23] [cursor=pointer]
+                - button "Replay" [ref=f2e30]:
+                  - img [ref=f2e32] [cursor=pointer]
+                - img [ref=f2e37]
+              - button "Learn more" [ref=f2e44] [cursor=pointer]
+        - generic [ref=e127]:
+          - generic [ref=e128]:
+            - generic [ref=e130]:
+              - textbox "Type to search" [ref=e131]
+              - img [ref=e135]
+            - button "Login" [ref=e139] [cursor=pointer]
+          - generic [ref=e140]:
+            - grid [ref=e141]:
+              - row "Image Title Author Publisher" [ref=e143]:
+                - columnheader "Image" [ref=e144] [cursor=pointer]:
+                  - generic [ref=e145] [cursor=pointer]: Image
+                - columnheader "Title" [ref=e147] [cursor=pointer]:
+                  - generic [ref=e148] [cursor=pointer]: Title
+                - columnheader "Author" [ref=e150] [cursor=pointer]:
+                  - generic [ref=e151] [cursor=pointer]: Author
+                - columnheader "Publisher" [ref=e153] [cursor=pointer]:
+                  - generic [ref=e154] [cursor=pointer]: Publisher
+              - generic [ref=e156]:
+                - rowgroup [ref=e157]:
+                  - row "image Git Pocket Guide Richard E. Silverman O'Reilly Media" [ref=e158]:
+                    - gridcell "image" [ref=e159]:
+                      - img "image" [ref=e160]
+                    - gridcell "Git Pocket Guide" [ref=e161]:
+                      - link "Git Pocket Guide" [ref=e164] [cursor=pointer]:
+                        - /url: /books?book=9781449325862
+                    - gridcell "Richard E. Silverman" [ref=e165]
+                    - gridcell "O'Reilly Media" [ref=e166]
+                - rowgroup [ref=e167]:
+                  - row "image Learning JavaScript Design Patterns Addy Osmani O'Reilly Media" [ref=e168]:
+                    - gridcell "image" [ref=e169]:
+                      - img "image" [ref=e170]
+                    - gridcell "Learning JavaScript Design Patterns" [ref=e171]:
+                      - link "Learning JavaScript Design Patterns" [ref=e174] [cursor=pointer]:
+                        - /url: /books?book=9781449331818
+                    - gridcell "Addy Osmani" [ref=e175]
+                    - gridcell "O'Reilly Media" [ref=e176]
+                - rowgroup [ref=e177]:
+                  - row "image Designing Evolvable Web APIs with ASP.NET Glenn Block et al. O'Reilly Media" [ref=e178]:
+                    - gridcell "image" [ref=e179]:
+                      - img "image" [ref=e180]
+                    - gridcell "Designing Evolvable Web APIs with ASP.NET" [ref=e181]:
+                      - link "Designing Evolvable Web APIs with ASP.NET" [ref=e184] [cursor=pointer]:
+                        - /url: /books?book=9781449337711
+                    - gridcell "Glenn Block et al." [ref=e185]
+                    - gridcell "O'Reilly Media" [ref=e186]
+                - rowgroup [ref=e187]:
+                  - row "image Speaking JavaScript Axel Rauschmayer O'Reilly Media" [ref=e188]:
+                    - gridcell "image" [ref=e189]:
+                      - img "image" [ref=e190]
+                    - gridcell "Speaking JavaScript" [ref=e191]:
+                      - link "Speaking JavaScript" [ref=e194] [cursor=pointer]:
+                        - /url: /books?book=9781449365035
+                    - gridcell "Axel Rauschmayer" [ref=e195]
+                    - gridcell "O'Reilly Media" [ref=e196]
+                - rowgroup [ref=e197]:
+                  - row "image You Don't Know JS Kyle Simpson O'Reilly Media" [ref=e198]:
+                    - gridcell "image" [ref=e199]:
+                      - img "image" [ref=e200]
+                    - gridcell "You Don't Know JS" [ref=e201]:
+                      - link "You Don't Know JS" [ref=e204] [cursor=pointer]:
+                        - /url: /books?book=9781491904244
+                    - gridcell "Kyle Simpson" [ref=e205]
+                    - gridcell "O'Reilly Media" [ref=e206]
+                - rowgroup [ref=e207]:
+                  - row "image Programming JavaScript Applications Eric Elliott O'Reilly Media" [ref=e208]:
+                    - gridcell "image" [ref=e209]:
+                      - img "image" [ref=e210]
+                    - gridcell "Programming JavaScript Applications" [ref=e211]:
+                      - link "Programming JavaScript Applications" [ref=e214] [cursor=pointer]:
+                        - /url: /books?book=9781491950296
+                    - gridcell "Eric Elliott" [ref=e215]
+                    - gridcell "O'Reilly Media" [ref=e216]
+                - rowgroup [ref=e217]:
+                  - row "image Eloquent JavaScript, Second Edition Marijn Haverbeke No Starch Press" [ref=e218]:
+                    - gridcell "image" [ref=e219]:
+                      - img "image" [ref=e220]
+                    - gridcell "Eloquent JavaScript, Second Edition" [ref=e221]:
+                      - link "Eloquent JavaScript, Second Edition" [ref=e224] [cursor=pointer]:
+                        - /url: /books?book=9781593275846
+                    - gridcell "Marijn Haverbeke" [ref=e225]
+                    - gridcell "No Starch Press" [ref=e226]
+                - rowgroup [ref=e227]:
+                  - row "image Understanding ECMAScript 6 Nicholas C. Zakas No Starch Press" [ref=e228]:
+                    - gridcell "image" [ref=e229]:
+                      - img "image" [ref=e230]
+                    - gridcell "Understanding ECMAScript 6" [ref=e231]:
+                      - link "Understanding ECMAScript 6" [ref=e234] [cursor=pointer]:
+                        - /url: /books?book=9781593277574
+                    - gridcell "Nicholas C. Zakas" [ref=e235]
+                    - gridcell "No Starch Press" [ref=e236]
+                - rowgroup [ref=e237]:
+                  - row [ref=e238]:
+                    - gridcell [ref=e239]
+                    - gridcell [ref=e241]
+                    - gridcell [ref=e243]
+                    - gridcell [ref=e245]
+                - rowgroup [ref=e247]:
+                  - row [ref=e248]:
+                    - gridcell [ref=e249]
+                    - gridcell [ref=e251]
+                    - gridcell [ref=e253]
+                    - gridcell [ref=e255]
+            - generic [ref=e258]:
+              - button "Previous" [disabled] [ref=e260]
+              - generic [ref=e261]:
+                - generic [ref=e262]:
+                  - text: Page
+                  - spinbutton "jump to page" [ref=e264]: "1"
+                  - text: of
+                  - generic [ref=e265]: "1"
+                - combobox "rows per page" [ref=e267]:
+                  - option "5 rows"
+                  - option "10 rows" [selected]
+                  - option "20 rows"
+                  - option "25 rows"
+                  - option "50 rows"
+                  - option "100 rows"
+              - button "Next" [disabled] [ref=e269]
+            - generic:
+              - generic: Loading...
+        - iframe [ref=e273]:
+          - generic [ref=f3e8] [cursor=pointer]:
+            - link [ref=f3e10] [cursor=pointer]:
+              - /url: https://clck.mgid.com/ghits/24627645/i/58092122/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxWNoi68-iLiQ3zPyTvA4vgoIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf45I5Tc5LYKTAANp4xt5i9T&rid=cbf37da9-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cg_OOHFAi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrIQCxQVIyhFlf97PBeF6OmlMZM3Kv3nfRmfNivqTapxbsw**
+            - generic [ref=f3e13] [cursor=pointer]:
+              - link "Sugar Shield" [ref=f3e15] [cursor=pointer]:
+                - /url: https://clck.mgid.com/ghits/24627645/i/58092122/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxWNoi68-iLiQ3zPyTvA4vgoIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf45I5Tc5LYKTAANp4xt5i9T&rid=cbf37da9-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cg_OOHFAi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrIQCxQVIyhFlf97PBeF6OmlMZM3Kv3nfRmfNivqTapxbsw**
+              - link "मधुमेह से पीड़ित व्यक्ति इसे हटाने से पहले तुरंत पढ़ें" [ref=f3e17] [cursor=pointer]:
+                - /url: https://clck.mgid.com/ghits/24627645/i/58092122/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxWNoi68-iLiQ3zPyTvA4vgoIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf45I5Tc5LYKTAANp4xt5i9T&rid=cbf37da9-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cg_OOHFAi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrIQCxQVIyhFlf97PBeF6OmlMZM3Kv3nfRmfNivqTapxbsw**
+              - link "और जानें→" [ref=f3e19] [cursor=pointer]:
+                - /url: https://clck.mgid.com/ghits/24627645/i/58092122/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxWNoi68-iLiQ3zPyTvA4vgoIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf45I5Tc5LYKTAANp4xt5i9T&rid=cbf37da9-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cg_OOHFAi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrIQCxQVIyhFlf97PBeF6OmlMZM3Kv3nfRmfNivqTapxbsw**
+                - text: और जानें
+                - generic [ref=f3e20] [cursor=pointer]: →
+      - generic [ref=e278]:
+        - img "Build PlayWright tests with AI" [ref=e280] [cursor=pointer]
+        - iframe [ref=e283]:
+          - generic [ref=f4e7] [cursor=pointer]:
+            - link [ref=f4e8] [cursor=pointer]:
+              - /url: https://clck.mgid.com/ghits/24627645/i/58092113/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxTasL7oc3wU7nd0_U01ibXAIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf7RKkHpjPaQ0mQfff6acMkk&rid=cbff8ea7-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cgjlNj_Oi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7THdlwajb1ep3ruYQDRdM1ZA**
+            - generic [ref=f4e9] [cursor=pointer]:
+              - link [ref=f4e11] [cursor=pointer]:
+                - /url: https://clck.mgid.com/ghits/24627645/i/58092113/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxTasL7oc3wU7nd0_U01ibXAIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf7RKkHpjPaQ0mQfff6acMkk&rid=cbff8ea7-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cgjlNj_Oi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7THdlwajb1ep3ruYQDRdM1ZA**
+              - generic [ref=f4e14] [cursor=pointer]:
+                - link "मधुमेह से पीड़ित व्यक्ति इसे हटाने से पहले तुरंत पढ़ें" [ref=f4e16] [cursor=pointer]:
+                  - /url: https://clck.mgid.com/ghits/24627645/i/58092113/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxTasL7oc3wU7nd0_U01ibXAIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf7RKkHpjPaQ0mQfff6acMkk&rid=cbff8ea7-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cgjlNj_Oi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7THdlwajb1ep3ruYQDRdM1ZA**
+                - link "Sugar Shield" [ref=f4e18] [cursor=pointer]:
+                  - /url: https://clck.mgid.com/ghits/24627645/i/58092113/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxTasL7oc3wU7nd0_U01ibXAIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf7RKkHpjPaQ0mQfff6acMkk&rid=cbff8ea7-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cgjlNj_Oi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7THdlwajb1ep3ruYQDRdM1ZA**
+                - link [ref=f4e19] [cursor=pointer]:
+                  - /url: https://clck.mgid.com/ghits/24627645/i/58092113/0/pp/1/3?h=DVCnVIoBlHwbZN89Z-IUxTasL7oc3wU7nd0_U01ibXAIIX5DFs7m3w5vRrHkZqMsLre59wELMae-_uJXKVURnkDhvIfn_RaR5jjH-kYJwf7RKkHpjPaQ0mQfff6acMkk&rid=cbff8ea7-8fc1-11f0-97d1-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=p8cgjlNj_Oi3&st=330&mp4=1&h2=aUJj-9w606ptNt-q5Um5TDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7THdlwajb1ep3ruYQDRdM1ZA**
+                  - img [ref=f4e20] [cursor=pointer]
+    - contentinfo [ref=e284]:
+      - generic [ref=e285]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```

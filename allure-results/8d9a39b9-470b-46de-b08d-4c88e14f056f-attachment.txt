@@ -1,0 +1,10 @@
+Test started: Searching for a specific book
+HomePage object initialized
+Navigated to DemoQA Bookstore
+Bookstore header is visible
+Searched for book: "Understanding ECMAScript 6"
+First book title matches expected: "Understanding ECMAScript 6"
+Clicked on the first book title
+URL contains /books?book= — navigation confirmed
+Screenshot taken: book-detail.png
+Test completed successfully

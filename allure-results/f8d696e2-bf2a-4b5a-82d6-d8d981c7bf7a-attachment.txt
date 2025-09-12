@@ -1,0 +1,3 @@
+Test started: Searching for a specific book
+HomePage object initialized
+Navigated to DemoQA Bookstore
